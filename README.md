@@ -28,8 +28,17 @@ The application runs using **Apache HTTP Server** and is exposed through **Port 
 
 The complete deployment process is automated using **Terraform Infrastructure as Code**.
 
----
 
+### 🌍 Main Website
+
+<p align="center">
+  <img src="screenshots/web 1.png" width="100%">
+</p>
+<p align="center">
+  <img src="screenshots/web 2.png" width="100%">
+</p>
+
+---
 # 🎯 Objective
 
 The objective of this project is to understand and implement automated Docker application deployment using Terraform on AWS.
